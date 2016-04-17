@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/theaccordance/web-design/issues"
   },
-  "homepage": "https://github.com/theaccordance/web-design#readme"
+  "homepage": "https://github.com/theaccordance/web-design#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
 }
