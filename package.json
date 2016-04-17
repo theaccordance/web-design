@@ -1,0 +1,19 @@
+{
+  "name": "si-web-design",
+  "version": "0.1.0",
+  "description": "Materials and Resources for part time cohort",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theaccordance/web-design.git"
+  },
+  "author": "Joe Mainwaring <jm@theaccordance.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theaccordance/web-design/issues"
+  },
+  "homepage": "https://github.com/theaccordance/web-design#readme"
+}
