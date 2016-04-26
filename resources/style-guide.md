@@ -399,4 +399,4 @@ footer {
 
 Heavily inspired by [@mdo's Code Guide](http://codeguide.co/). Made with :heart:️ in Chicago.
 
-Open Source under MIT.  Copyright 2015 [Joe Mainwaring](http://joemainwaring.com).
+Open Source under MIT.  Copyright 2016 [Joe Mainwaring](http://joemainwaring.com).
